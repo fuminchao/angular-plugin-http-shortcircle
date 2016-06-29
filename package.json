@@ -1,0 +1,31 @@
+{
+  "name": "angular-plugin-http-shortcircle",
+  "version": "0.0.1",
+  "description": "",
+  "main": "angular-plugin-http-shortcircle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "jasmine-core": "^2.4.1",
+    "karma-jasmine": "^1.0.2",
+    "karma": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node_modules/karma/bin/karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuminchao/angular-plugin-http-shortcircle.git"
+  },
+  "author": "fuminchao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuminchao/angular-plugin-http-shortcircle/issues"
+  },
+  "homepage": "https://github.com/fuminchao/angular-plugin-http-shortcircle#readme"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "angular-plugin-http-shortcircle",
+  "version": "0.0.1",
+  "author": {
+    "name": "Minchao Fu",
+    "email": "fuminchao@outlook.com",
+    "url": "https://github.com/fuminchao"
+  },
+  "homepage": "https://github.com/fuminchao/angular-plugin-http-shortcircle",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fuminchao/angular-plugin-http-shortcircle.git"
+  },
+  "licenses": [
+    {
+      "type": ""license": "MIT",",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "angular": ">=1.4.0"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.4.0"
+  }
+}
